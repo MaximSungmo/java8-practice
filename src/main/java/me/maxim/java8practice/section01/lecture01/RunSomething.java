@@ -1,4 +1,4 @@
-package me.maxim.java8practice;
+package me.maxim.java8practice.section01.lecture01;
 
 @FunctionalInterface
 public interface RunSomething {

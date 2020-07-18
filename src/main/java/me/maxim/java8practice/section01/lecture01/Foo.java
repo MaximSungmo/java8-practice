@@ -1,6 +1,4 @@
-package me.maxim.java8practice;
-
-import java.sql.SQLOutput;
+package me.maxim.java8practice.section01.lecture01;
 
 public class Foo {
 
